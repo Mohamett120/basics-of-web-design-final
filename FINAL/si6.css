@@ -1,0 +1,53 @@
+.box {
+
+    width: 900px;
+    height: 500px;
+    padding: 20px;
+    margin: 10px auto;
+    box-shadow: 0px 0px 0x 0px gray;
+    border-radius: 10px;
+    overflow: hidden;
+  
+    font-family: sans-serif;
+  
+   background-image: url(photes/n5.jpg);
+  background-size: contain;
+   
+   text-align: center;
+  
+   opacity: 0.9;
+  }
+  
+  div.h1 {
+    font-weight: bold;
+  color: rgb(255, 0, 0);
+  font-size: large;
+  font-weight: 130;
+  font-family: sans-serif;
+  font: 1em sans-serif;
+  font-style: inherit;
+  
+  }
+  body {
+
+ background-image: -webkit-linear-gradient(120deg, #583b3b 50%,  #737256 50%);
+
+  }
+
+  body {
+    color: rgb(246, 242, 0);
+ 
+ font-size: 150%;
+ font-weight: 950;
+
+  }
+  
+  #myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    }
+
+  

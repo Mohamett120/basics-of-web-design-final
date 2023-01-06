@@ -1,0 +1,47 @@
+.box {
+
+    width: 900px;
+    height: 500px;
+    padding: 20px;
+    margin: 10px auto;
+    box-shadow: 0px 0px 0x 0px gray;
+    border-radius: 10px;
+    overflow: hidden;
+  
+    font-family: sans-serif;
+  
+   background-image: url(photes/images.jpg);
+   
+   background-size: cover;
+   text-align: center;
+  
+   opacity: 0.8;
+  }
+  
+  div.h1 {
+  color: rgb(255, 227, 11);
+  font-size: large;
+  font-weight: 150;
+  font-family: sans-serif;
+  font: 1em sans-serif;
+  font-style: inherit;
+  
+  }
+  body {
+
+ background-image: -webkit-linear-gradient(120deg, #583b3b 50%,  #737256 50%);
+
+  }
+
+  body {
+ color: rgb(228, 1, 1);
+ font-size: 100%;
+
+  }
+  
+  #myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;

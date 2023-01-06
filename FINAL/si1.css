@@ -1,0 +1,65 @@
+
+.box {
+
+  height: 500px;
+  width: 80%;
+    padding: 20px;
+    margin: 10px auto;
+    box-shadow: 0px 0px 0x 0px gray;
+    border-radius: 10px;
+    overflow: hidden;
+  
+    font-family: sans-serif;
+  
+   background-image: url(images.jpg);
+   
+   background-size: cover;
+   text-align: center;
+  
+   opacity: 0.7;
+  }
+  
+  div.h1 {
+  color: rgb(252, 253, 249);
+  font-size: 50px;
+  font-weight: 150;
+  font-family: sans-serif;
+  font: 1em sans-serif;
+  font-style: inherit;
+  
+  
+  }
+  body {
+    color: rgb(246, 246, 20);
+    font-size: larger;
+    font-weight: 100px;font-family: ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    
+
+ background-image: -webkit-linear-gradient(120deg, #583b3b 50%,  #737256 50%);
+
+  }
+
+  
+  
+  #myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    }
+
+    a:hover {
+      background-color: yellow;
+    }
+
+
+
+
+
+
+    .i {
+      color: red;
+    }
